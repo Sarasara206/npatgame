@@ -13,28 +13,38 @@ Simple and interactive console-based gameplay.
 
 
 How to Play:
+
 Run the script.
 Confirm if you are ready to play by typing "yes."
 You will be given a random letter.
 Enter a name, place, animal, and thing that start with the given letter.
 After answering all prompts, your score will be displayed.
+
+
 Technologies Used:
+
 Python: Core language.
 Random module: To generate a random letter.
 String module: To handle alphabet letters.
+
+
 Installation:
+
 Clone the repository:
 bash
 Copy code
 git clone https://github.com/yourusername/npat-game.git
+
 Navigate to the project directory:
 bash
 Copy code
 cd npat-game
+
 Run the script:
 bash
 Copy code
 python npat_game.py
+
 Future Enhancements:
 Add a timer for more challenging gameplay.
 Expand the categories beyond NPAT.
