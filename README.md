@@ -10,6 +10,8 @@ Prompts players to input a name, place, animal, and thing starting with the sele
 Evaluates answers and provides feedback on correctness.
 Keeps track of the player's score based on correct answers.
 Simple and interactive console-based gameplay.
+
+
 How to Play:
 Run the script.
 Confirm if you are ready to play by typing "yes."
@@ -37,4 +39,5 @@ Future Enhancements:
 Add a timer for more challenging gameplay.
 Expand the categories beyond NPAT.
 Introduce multiplayer mode.
+
 Thank You for Playing!
